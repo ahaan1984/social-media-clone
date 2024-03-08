@@ -1,0 +1,16 @@
+.app {
+  text-align: center;
+}
+
+.tweetInput {
+  margin-bottom: 20px;
+}
+
+.tweetsList {
+  list-style: none;
+  padding: 0;
+}
+
+.tweetsList li {
+  margin-bottom: 10px;
+}
